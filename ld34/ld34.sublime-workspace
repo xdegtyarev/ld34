@@ -1,0 +1,1514 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"NOTI",
+				"NotificationManager	NotificationManager"
+			],
+			[
+				"st",
+				"state	JunkieState"
+			],
+			[
+				"emploeeDaat",
+				"GetEmployeeData()	EmployeeData"
+			],
+			[
+				"targetDi",
+				"targetAttackDistrict	District"
+			],
+			[
+				"targ",
+				"targetAttackDistrict	District"
+			],
+			[
+				"Movemen",
+				"CharacterMovementTransaction	CharacterMovementTransaction"
+			],
+			[
+				"dist",
+				"districtSettings	DistrictSettings { get; }"
+			],
+			[
+				"anima",
+				"animatorOverrideName	string"
+			],
+			[
+				"targe",
+				"targetCharacter	EmployeeData"
+			],
+			[
+				"Emplo",
+				"EmployeeData	EmployeeData"
+			],
+			[
+				"cha",
+				"characterType	CharacterType"
+			],
+			[
+				"spa",
+				"EnqueueSpawnRequest(District district, CharacterType t, Action<GameObject> callback, bool allowCollectorSpawner = false)	void"
+			],
+			[
+				"name",
+				"nameLabel	Text"
+			],
+			[
+				"ai",
+				"AIDefenceCount	int"
+			],
+			[
+				"Charac",
+				"CharacterFactory	CharacterFactory"
+			],
+			[
+				"get",
+				"GetRandomCharacter()	string"
+			],
+			[
+				"target",
+				"targetAttackDistrict	District"
+			],
+			[
+				"charac",
+				"characterManager	CharacterManager"
+			],
+			[
+				"Time",
+				"TimeSpan	TimeSpan"
+			],
+			[
+				"a",
+				"AIDefenceCount	int"
+			],
+			[
+				"set",
+				"districtSettings	DistrictSettings { get; }"
+			],
+			[
+				"di",
+				"GetDistricts()	IEnumerable<District>"
+			],
+			[
+				"P",
+				"PreparingOffence	AIState"
+			],
+			[
+				"frac",
+				"fractionId	int"
+			],
+			[
+				"defa",
+				"defaultFraction	int"
+			],
+			[
+				"pro",
+				"PropertyField(Rect position, SerializedProperty property)	bool"
+			],
+			[
+				"for",
+				"foreach	foreach"
+			],
+			[
+				"is",
+				"IsInUpperFloor(int id)	bool"
+			],
+			[
+				"storage",
+				"storageViewConfig	StorageViewConfiguration { get; }"
+			],
+			[
+				"Camera",
+				"CameraController	CameraController"
+			],
+			[
+				"drag",
+				"mouseDrag	Toggle"
+			],
+			[
+				"tog",
+				"ToggleElectricityView()	void"
+			],
+			[
+				"money",
+				"moneyStorageRoom	MoneyStorageRoom"
+			],
+			[
+				"ins",
+				"InstantiateRoomAssignFX(Vector3 position)	void"
+			],
+			[
+				"col",
+				"color	Color { get; set; }"
+			],
+			[
+				"end",
+				"EndGroup()	void"
+			],
+			[
+				"arra",
+				"DeleteArrayElementAtIndex(int index)	void"
+			],
+			[
+				"arr",
+				"arraySize	int { get; set; }"
+			],
+			[
+				"ar",
+				"GetArrayElementAtIndex(int index)	SerializedProperty"
+			],
+			[
+				"Proper",
+				"PropertyDrawer	PropertyDrawer"
+			],
+			[
+				"id",
+				"cityIndex	int"
+			],
+			[
+				"Noti",
+				"NotificationManager	NotificationManager"
+			],
+			[
+				"Act",
+				"ActionButtonStyle	ActionButtonStyle"
+			],
+			[
+				"Color",
+				"Color	Color"
+			],
+			[
+				"Serial",
+				"SerializeField	SerializeField"
+			],
+			[
+				"Trig",
+				"TriggerSelectionOn()	void"
+			],
+			[
+				"Tri",
+				"TriggerSelectionOff()	void"
+			],
+			[
+				"GetAs",
+				"GetCurrentAssignment()	Room"
+			],
+			[
+				"cu",
+				"currentLevel	int"
+			],
+			[
+				"tart",
+				"targetLayout	ILayoutElement"
+			],
+			[
+				"GetCom",
+				"GetComponent<T>()	T"
+			],
+			[
+				"acti",
+				"activeSelf	bool { get; }"
+			],
+			[
+				"con",
+				"container	BaseContainer"
+			],
+			[
+				"Notifi",
+				"NotificationPanel	NotificationPanel"
+			],
+			[
+				"star",
+				"Started()	void"
+			],
+			[
+				"objec",
+				"objective	ObjectiveSettings"
+			],
+			[
+				"obje",
+				"objective	ObjectiveSettings"
+			],
+			[
+				"chec",
+				"checkMark	Image"
+			],
+			[
+				"Game",
+				"GameObject	GameObject"
+			],
+			[
+				"obj",
+				"objectives	ChainedObjectiveSettings"
+			],
+			[
+				"clone",
+				"cloneObjectiveChain	List<ObjectiveSettings>"
+			],
+			[
+				"cl",
+				"Clone()	ChainedObjectiveSettings"
+			],
+			[
+				"remo",
+				"RemoveAt(int index)	void"
+			],
+			[
+				"top",
+				"topBarDangerLevelBackingColor	Color"
+			],
+			[
+				"Getco",
+				"GetComponent<T>()	T"
+			],
+			[
+				"co",
+				"Contains(T item)	bool"
+			],
+			[
+				"O",
+				"OnTargetReached	OnTargetReached"
+			],
+			[
+				"TruckS",
+				"TruckState	TruckState"
+			],
+			[
+				"Junk",
+				"JunkieState	JunkieState"
+			],
+			[
+				"Restro",
+				"RestRoomData	RestRoomData"
+			],
+			[
+				"Heal",
+				"HealRoomData	HealRoomData"
+			],
+			[
+				"Training",
+				"TrainingRoomData	TrainingRoomData"
+			],
+			[
+				"roomcel",
+				"GetRoomCell(int i)	RoomCell"
+			],
+			[
+				"curr",
+				"currentPresenceRoom	Room"
+			],
+			[
+				"ass",
+				"assignmentPoints	List<Transform>"
+			],
+			[
+				"RoomCo",
+				"RoomViewController	RoomViewController"
+			],
+			[
+				"has",
+				"HasAssignment()	bool"
+			],
+			[
+				"currentAs",
+				"currentAssignmentRoom	Room"
+			],
+			[
+				"sell",
+				"sellOrder	int[]"
+			],
+			[
+				"req",
+				"savedRoomReq	SellRoomData"
+			],
+			[
+				"CheckLoc",
+				"checkLocalStorageDelayed	bool"
+			],
+			[
+				"Empl",
+				"Employee	Employee"
+			],
+			[
+				"getcom",
+				"GetComponent<T>()	T"
+			],
+			[
+				"Onem",
+				"onEmployeeReachedRoomCell	onEmployeeReachedRoomCell"
+			],
+			[
+				"getc",
+				"GetCurrentAssignment()	Room"
+			],
+			[
+				"current",
+				"currentAssignmentRoom	Room"
+			],
+			[
+				"anim",
+				"animator	Character2dAnimator"
+			],
+			[
+				"cur",
+				"currentHealth	float"
+			],
+			[
+				"l",
+				"currentLevel	int"
+			],
+			[
+				"Clon",
+				"CloneRandomized()	CharacterData"
+			],
+			[
+				"setup",
+				"Setup(District dist, CharacterData d)	void"
+			],
+			[
+				"getco",
+				"GetComponent<T>()	T"
+			],
+			[
+				"getro",
+				"GetRoomCell(int i)	RoomCell"
+			],
+			[
+				"na",
+				"name	string { get; set; }"
+			],
+			[
+				"cure",
+				"currentValue	float { get; }"
+			],
+			[
+				"level",
+				"levelProgress	float { get; }"
+			],
+			[
+				"IsLOw",
+				"IsLowStamina()	bool"
+			],
+			[
+				"clam",
+				"Clamp(float value, float min, float max)	float"
+			],
+			[
+				"int",
+				"Int32	Int32"
+			],
+			[
+				"In",
+				"Int32	Int32"
+			],
+			[
+				"in",
+				"Int32	Int32"
+			],
+			[
+				"Math",
+				"MathExtensions	MathExtensions"
+			],
+			[
+				"move",
+				"MoveToBasepoint(float x)	void"
+			],
+			[
+				"tric",
+				"truckView	TruckView"
+			],
+			[
+				"truckS",
+				"TruckState	TruckState"
+			],
+			[
+				"truck",
+				"truckView	TruckView"
+			],
+			[
+				"tri",
+				"truckView	TruckView"
+			],
+			[
+				"heal",
+				"Health	float { get; set; }"
+			],
+			[
+				"getCo",
+				"GetComponent<T>()	T"
+			],
+			[
+				"Get",
+				"GetInstanceID()	int"
+			],
+			[
+				"true",
+				"truckLabel	Text"
+			],
+			[
+				"object",
+				"objectiveBar	GameObject"
+			],
+			[
+				"ob",
+				"objectives	ObjectiveSettings[]"
+			],
+			[
+				"Pers",
+				"PersistanceManager	PersistanceManager"
+			],
+			[
+				"Set",
+				"SetupWin()	void"
+			],
+			[
+				"maxcom",
+				"maxCombId	int"
+			],
+			[
+				"pl",
+				"PlayerPrefs	PlayerPrefs"
+			],
+			[
+				"tim",
+				"time	float"
+			],
+			[
+				"Check",
+				"CheckFatigueLevel()	bool"
+			],
+			[
+				"check",
+				"checkFlag	bool"
+			],
+			[
+				"onroom",
+				"OnRoomLock()	void"
+			],
+			[
+				"sto",
+				"storage	StorageModel"
+			],
+			[
+				"stora",
+				"storageRoomData	StorageRoomData { get; }"
+			],
+			[
+				"OnRom",
+				"OnRoomLock()	void"
+			],
+			[
+				"GarageRo",
+				"GarageRoomData	GarageRoomData"
+			],
+			[
+				"ste",
+				"storageViewConfig	StorageViewConfiguration { get; }"
+			],
+			[
+				"Production",
+				"ProductionRoomData	ProductionRoomData"
+			],
+			[
+				"MoneyS",
+				"MoneyStorageRoomData	MoneyStorageRoomData"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"relo",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"rel",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"re",
+				"OmniSharpSublime: Reload Solution"
+			],
+			[
+				"packageco",
+				"Package Control: Install Package"
+			],
+			[
+				"d",
+				"Build With: D - dub"
+			],
+			[
+				"packcon",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Tweak Colorcode to current color scheme"
+			],
+			[
+				"colorco",
+				"Tweak Colorcode to current color scheme"
+			],
+			[
+				"colorcode",
+				"Tweak Colorcode to current color scheme"
+			],
+			[
+				"to",
+				"Toggle Colorcode on this view"
+			],
+			[
+				"colorcod",
+				"Toggle Colorcode on this view"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 431.0
+	},
+	"console":
+	{
+		"height": 407.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/xdegtyarev/Development/ld34/ld34"
+	],
+	"file_history":
+	[
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/City/BasementQueue.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/AI/AIController.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Characters/Junkies/Junkie.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Characters/Character/Character.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Utility/ThoughtManager.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Characters/Employees/Employee.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/City/FightingManager.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/City/District.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Utility/CharacterAvatarsGenerator.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Characters/Citizen/Citizen.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Characters/Core/CharacterFactory.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Cell/Cells/Cell.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/City/Basement.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/ContextMenu/LadderRoomContextMenu/EntranceRoomContextMenu.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/City/DistrictView.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/City/City.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Characters/Employees/EmployeeDataContainer.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Characters/Character/CharacterData.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Characters/Inspectors/Cop.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Characters/Character/Fighter.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/City/CharacterMovementTransaction.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Characters/Inspectors/InspectionManager.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/AttackWindow/AttackWindow.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/BaseCharacrersTransitionWindow/BaseCharactersTransitionWindow.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Characters/Core/AnimationManager.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/City/CharacterManager.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Characters/Employees/EmployeeManager.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Settings/LocationSettings.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/HireWindow/HireWindow.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Metagame/Wallet.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Editor/MissingScriptResolver.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Time/TimeManager.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Time/DateTimeEvent.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Settings/DistrictSettings.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/ContextMenu/RoomContextMenu/StorageRoomDataPanel.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/ContextMenu/RoomContextMenu/TrainingRoomDataPanel.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/NavigationBar/DistrictCell.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/ContextMenu/RoomContextMenu/SellRoomDataPanel.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/ContextMenu/RoomContextMenu/SecurityRoomDataPanel.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/ContextMenu/RoomContextMenu/RestRoomDataPanel.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/ContextMenu/RoomContextMenu/PrisonRoomDataPanel.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/ContextMenu/RoomContextMenu/ProductionRoomDataPanel.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Trucks/Delivery/DeliveryTruckDataContainer.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/ContextMenu/RoomContextMenu/MoneyStorageRoomDataPanel.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/ContextMenu/RoomContextMenu/HealRoomDataPanel.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/ContextMenu/RoomContextMenu/EmployeeRoomDataPanel.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/ContextMenu/RoomContextMenu/GarageRoomDataPanel.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/ContextMenu/RoomContextMenu/ElectricityRoomDataPanel.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/ContextMenu/RoomContextMenu/DecorRoomDataPanel.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/EndLevelScreen/EndLevelWindow.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Rooms/Base/Room.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Cell/Cells/WalkableCell.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Cell/Types/GroundCell.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Cell/Types/EmptyRoomCell.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Editor/Halfbus/LocalizeStringDrawer.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Utility/LocalizeStringAttribute.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Editor/Halfbus/ObjectiveSettingDrawer.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Halfbus/General/UIManager.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Storage/MoneyStorageManager.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Metagame/StatisticsTracker.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Settings/ObjectiveSettings.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Utility/MathExtensions.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/CityScreen/CityScreen.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Rooms/Storage/StorageRoom.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/CityScreen/CityDistrictView.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/ContextMenu/EmptyRoomCellContextMenu/EmptyRoomCellContextMenu.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/Options/MenuOptionsWindow.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Cell/Cells/VisibleCell.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/Notification/TaskPanel/TaskPanelController.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Trucks/Delivery/DeliveryBehaviour.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Trucks/Base/TruckView.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Input/CameraController.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Rooms/Sell/SellRoom.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/ShopWindow/RoomShop/RoomShopWindow.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Trucks/Base/TruckDataContainer.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/Notification/TaskPanel/TaskListItem.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/ContextMenu/LadderRoomContextMenu/LadderRoomContextMenu.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/Options/GameOptionsWindow.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Rooms/Electricity/RoomElectricityConsumptionView.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Interfaces/ISelectable.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/RoomActionButton.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Rooms/Electricity/ElectricityRoom.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/RoomElectricityConsumptionView.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Cell/Cells/RoomCell.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Rooms/Base/RoomBehaviour.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Characters/Core/CharacterStateMachine.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Utility/CharacterHelper.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/ShopWindow/RoomShop/RoomShopItem.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Rooms/Training/TrainingRoom.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Rooms/Electricity/ElectricityRoomDataContainer.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Rooms/Employee/EmployeeRoomDataContainer.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Rooms/Garage/GarageRoomDataContainer.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Rooms/Heal/HealRoomDataContainer.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Rooms/Heal/RestRoomDataContainer.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Rooms/Mod/ModRoomDataContainer.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Rooms/Prison/PrisonRoomDataContainer.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Rooms/Production/ProductionRoomDataContainer.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Rooms/Security/SecurityRoomDataContainer.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Rooms/Sell/SellRoomDataContainer.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Rooms/Storage/MoneyStorageRoomDataContainer.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Rooms/Storage/StorageRoomDataContainer.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Rooms/Training/TrainingRoomDataContainer.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Rooms/Unlock/UnlockRoomDataContainer.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Rooms/Decor/DecorRoomDataContainer.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Rooms/Base/RoomData.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Characters/Junkies/JunkieDataContainer.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Characters/Inspectors/InspectorDataContainer.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Characters/Citizen/CitizenDataContainer.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Settings/CharacterSettings.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Resources/Settings/CharacterSettings/Employees/employee_damage.asset",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Utility/DataContainer.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Editor/Basement/ExperiencedPropertyCustomDrawer.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/MoveCharactersWindow/MoveCharactersWindow.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Editor/Halfbus/RangedCurvePropertyDrawer.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/Notification/BarNotifications/TimerInteractiveNotification.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/Notification/NotificationManager.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/Notification/BarNotifications/NotificationPanel.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/Notification/BarNotifications/InteractiveNotification.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/Notification/BarNotifications/ButtonInteractiveNotification.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/Notification/BarNotifications/CopCarSpawnedNotification.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/Notification/BarNotifications/ButtonNotification.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/Notification/BarNotifications/BasicNotification.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Halfbus/General/CustomControllers/Containers/IUIContainerItem.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/ContextMenu/RoomContextMenu/RoomContextView.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/UI/Screens/GameScreen/Notification/BarNotifications/TimerNotification.cs",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Resources/Localization/Base/English.json",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Resources/Localization/Base/Russian.json",
+		"/Users/xdegtyarev/Development/basement/trunk/UnityProject/Assets/Scripts/Core/Metagame/PersistanceManager.cs"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"targetDefenceDistrict",
+			"targetAttackDistrict",
+			"targetAttackDis",
+			"dist",
+			"targetCharacter",
+			"nameLabel",
+			"DateTimeEvent",
+			"dateTimeEvent",
+			"DateTimeEvent",
+			"override",
+			"authority == DistrictAuthority.Player",
+			"authority",
+			"District",
+			"AUTHORITY",
+			"using",
+			"DistrictAuthority",
+			"80f",
+			"Length",
+			"value",
+			"Count",
+			"Upper",
+			"draggingControl",
+			"buildingCell",
+			"DataContainer<",
+			"events",
+			"experienced",
+			"attackNotification",
+			"interactionCallback",
+			"movement",
+			"TaskPanelItem",
+			"ObjectiveSettings",
+			"trackedMainObjectives[i]",
+			"truck",
+			"LogError",
+			"objectiveBar",
+			"ElectricityRoomData",
+			"TryGetEmployeeWorkplacePosition",
+			"cells",
+			"ProjectsPaths.CHARACTER_OVERRIDES",
+			"room.GetPresentEmployees()[index]",
+			"stamina",
+			"garageRoomData",
+			"auth",
+			"fatigueSpeed",
+			"stamina",
+			"productivity",
+			"restSpeed",
+			"StorageRoomData",
+			"// truckView.SetOutdoorSorting(false);",
+			"No such room type",
+			"public",
+			"static",
+			"const",
+			"\\\"",
+			"animator",
+			"OnExitState",
+			"queue",
+			"OnEmployee",
+			"GetOriginDistrict",
+			"Update",
+			"GetDeliveryPoint",
+			"Agressive",
+			"originDistrict",
+			"sell it",
+			"it",
+			"\"buildingDecor\"",
+			"ToggleWindow<EndLevelWindow>()",
+			"sellabili",
+			"checkIdle",
+			"StorageRoomData",
+			"\\\":{\\\"\n",
+			"StorageRoomData",
+			"$type",
+			"CheckStats",
+			"Check",
+			"PersistantBehaviour",
+			"$type",
+			"OnRoom",
+			"OnRoomLock",
+			"Clear",
+			"$type",
+			"GetRoomData()",
+			"storageRoomData",
+			"GetRoomData()",
+			"RestRoomData",
+			"GetRoomData()",
+			"SellRoomData",
+			"GetRoomData()",
+			"storage",
+			"$type",
+			"settings",
+			"{\\\"$type",
+			",",
+			"initialized",
+			"FromSave",
+			"StorageRoomData",
+			"Money",
+			"\n\"",
+			"Money",
+			"money",
+			"Indented",
+			"money",
+			"private",
+			"obj",
+			"OnTimeOver",
+			"newGameStarted",
+			"\"{",
+			"}\"",
+			"\\n",
+			"\\\"",
+			",\n",
+			"\\n",
+			"InteractiveNotification",
+			"TimerInteractiveNotification",
+			"timeoutCallback",
+			"productivity",
+			"CheckFatigueLevel()",
+			"CheckFatigueLevel",
+			"CheckFa",
+			"ToggleScreen",
+			"Heal(",
+			"Heal",
+			"kill",
+			"initialVelocity",
+			"groundSprite",
+			"instance",
+			"title",
+			"source"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 120.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 120.0
+	},
+	"pinned_build_system": "Packages/DKit/D.sublime-build",
+	"project": "ld34.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"citi",
+				"Assets/Scripts/Core/Characters/Citizen/Citizen.cs"
+			],
+			[
+				"junki",
+				"Assets/Scripts/Core/Characters/Junkies/Junkie.cs"
+			],
+			[
+				"figh",
+				"Assets/Scripts/Core/City/FightingManager.cs"
+			],
+			[
+				"aico",
+				"Assets/Scripts/Core/AI/AIController.cs"
+			],
+			[
+				"empl",
+				"Assets/Scripts/Core/Characters/Employees/Employee.cs"
+			],
+			[
+				"dis",
+				"Assets/Scripts/Core/City/District.cs"
+			],
+			[
+				"cit",
+				"Assets/Scripts/Core/City/City.cs"
+			],
+			[
+				"characterda",
+				"Assets/Scripts/Core/Characters/Character/CharacterData.cs"
+			],
+			[
+				"fighter",
+				"Assets/Scripts/Core/Characters/Character/Fighter.cs"
+			],
+			[
+				"emp",
+				"Assets/Scripts/Core/Characters/Employees/Employee.cs"
+			],
+			[
+				"characterma",
+				"Assets/Scripts/Core/City/CharacterManager.cs"
+			],
+			[
+				"attack",
+				"Assets/Scripts/UI/Screens/GameScreen/AttackWindow/AttackWindow.cs"
+			],
+			[
+				"inspec",
+				"Assets/Scripts/Core/Characters/Inspectors/InspectionManager.cs"
+			],
+			[
+				"loca",
+				"Assets/Scripts/Settings/LocationSettings.cs"
+			],
+			[
+				"hire",
+				"Assets/Scripts/UI/Screens/GameScreen/HireWindow/HireWindow.cs"
+			],
+			[
+				"districtview",
+				"Assets/Scripts/Core/City/DistrictView.cs"
+			],
+			[
+				"city",
+				"Assets/Scripts/Core/City/City.cs"
+			],
+			[
+				"timema",
+				"Assets/Scripts/Core/Time/TimeManager.cs"
+			],
+			[
+				"emplo",
+				"Assets/Scripts/Core/Characters/Employees/EmployeeManager.cs"
+			],
+			[
+				"em",
+				"Assets/Scripts/Core/Characters/Employees/Employee.cs"
+			],
+			[
+				"di",
+				"Assets/Scripts/Settings/DistrictSettings.cs"
+			],
+			[
+				"junk",
+				"Assets/Scripts/Core/Characters/Junkies/Junkie.cs"
+			],
+			[
+				"dist",
+				"Assets/Scripts/Core/City/District.cs"
+			],
+			[
+				"base",
+				"Assets/Scripts/Core/City/Basement.cs"
+			],
+			[
+				"distr",
+				"Assets/Scripts/Settings/DistrictSettings.cs"
+			],
+			[
+				"locat",
+				"Assets/Scripts/Settings/LocationSettings.cs"
+			],
+			[
+				"endle",
+				"Assets/Scripts/UI/Screens/EndLevelScreen/EndLevelWindow.cs"
+			],
+			[
+				"uima",
+				"Assets/Scripts/UI/Halfbus/General/UIManager.cs"
+			],
+			[
+				"location",
+				"Assets/Scripts/Settings/LocationSettings.cs"
+			],
+			[
+				"locatio",
+				"Assets/Scripts/Settings/LocationSettings.cs"
+			],
+			[
+				"obje",
+				"Assets/Editor/Halfbus/ObjectiveSettingDrawer.cs"
+			],
+			[
+				"mathe",
+				"Assets/Scripts/Utility/MathExtensions.cs"
+			],
+			[
+				"wale",
+				"Assets/Scripts/Core/Metagame/Wallet.cs"
+			],
+			[
+				"state",
+				"Assets/Scripts/Core/Metagame/StatisticsTracker.cs"
+			],
+			[
+				"stat",
+				"Assets/Scripts/Core/Metagame/StatisticsTracker.cs"
+			],
+			[
+				"storageroom",
+				"Assets/Scripts/Core/Rooms/Storage/StorageRoom.cs"
+			],
+			[
+				"deliver",
+				"Assets/Scripts/Core/Trucks/Delivery/DeliveryTruckDataContainer.cs"
+			],
+			[
+				"deli",
+				"Assets/Scripts/Core/Trucks/Delivery/DeliveryBehaviour.cs"
+			],
+			[
+				"deliverytr",
+				"Assets/Scripts/Core/Trucks/Delivery/DeliveryTruckDataContainer.cs"
+			],
+			[
+				"truck",
+				"Assets/Scripts/Core/Trucks/Base/TruckView.cs"
+			],
+			[
+				"task",
+				"Assets/Scripts/UI/Screens/GameScreen/Notification/TaskPanel/TaskPanelController.cs"
+			],
+			[
+				"ladderr",
+				"Assets/Scripts/UI/Screens/GameScreen/ContextMenu/LadderRoomContextMenu/LadderRoomContextMenu.cs"
+			],
+			[
+				"vi",
+				"Assets/Scripts/Core/Cell/Cells/VisibleCell.cs"
+			],
+			[
+				"cell",
+				"Assets/Scripts/Core/Cell/Cells/Cell.cs"
+			],
+			[
+				"camera",
+				"Assets/Scripts/Core/Input/CameraController.cs"
+			],
+			[
+				"opti",
+				"Assets/Scripts/UI/Screens/GameScreen/Options/GameOptionsWindow.cs"
+			],
+			[
+				"roomele",
+				"Assets/Scripts/Core/Rooms/Electricity/RoomElectricityConsumptionView.cs"
+			],
+			[
+				"ro",
+				"Assets/Scripts/Core/Rooms/Base/Room.cs"
+			],
+			[
+				"room",
+				"Assets/Scripts/Core/Rooms/Base/Room.cs"
+			],
+			[
+				"roomcel",
+				"Assets/Scripts/Core/Cell/Cells/RoomCell.cs"
+			],
+			[
+				"electric",
+				"Assets/Scripts/UI/Screens/GameScreen/ContextMenu/RoomContextMenu/ElectricityRoomDataPanel.cs"
+			],
+			[
+				"elect",
+				"Assets/Scripts/Core/Rooms/Electricity/ElectricityRoom.cs"
+			],
+			[
+				"electri",
+				"Assets/Scripts/Core/Rooms/Electricity/ElectricityRoom.cs"
+			],
+			[
+				"sell",
+				"Assets/Scripts/Core/Rooms/Sell/SellRoom.cs"
+			],
+			[
+				"charach",
+				"Assets/Scripts/Utility/CharacterHelper.cs"
+			],
+			[
+				"characterst",
+				"Assets/Scripts/Core/Characters/Core/CharacterStateMachine.cs"
+			],
+			[
+				"emptyroom",
+				"Assets/Scripts/Core/Cell/Types/EmptyRoomCell.cs"
+			],
+			[
+				"obej",
+				"Assets/Scripts/Settings/ObjectiveSettings.cs"
+			],
+			[
+				"rootra",
+				"Assets/Scripts/Core/Rooms/Training/TrainingRoom.cs"
+			],
+			[
+				"rooms",
+				"Assets/Scripts/UI/Screens/GameScreen/ShopWindow/RoomShop/RoomShopWindow.cs"
+			],
+			[
+				"character",
+				"Assets/Scripts/Core/Characters/Character/Character.cs"
+			],
+			[
+				"stati",
+				"Assets/Scripts/Core/Metagame/StatisticsTracker.cs"
+			],
+			[
+				"mone",
+				"Assets/Scripts/Core/Storage/MoneyStorageManager.cs"
+			],
+			[
+				"statis",
+				"Assets/Scripts/Core/Metagame/StatisticsTracker.cs"
+			],
+			[
+				"jun",
+				"Assets/Scripts/Core/Characters/Junkies/JunkieDataContainer.cs"
+			],
+			[
+				"citizen",
+				"Assets/Scripts/Core/Characters/Citizen/CitizenDataContainer.cs"
+			],
+			[
+				"data",
+				"Assets/Scripts/Utility/DataContainer.cs"
+			],
+			[
+				"characterdata",
+				"Assets/Scripts/Core/Characters/Character/CharacterData.cs"
+			],
+			[
+				"objec",
+				"Assets/Scripts/Settings/ObjectiveSettings.cs"
+			],
+			[
+				"drawer",
+				"Assets/Editor/Basement/ExperiencedPropertyCustomDrawer.cs"
+			],
+			[
+				"move",
+				"Assets/Scripts/UI/Screens/GameScreen/MoveCharactersWindow/MoveCharactersWindow.cs"
+			],
+			[
+				"attackw",
+				"Assets/Scripts/UI/Screens/GameScreen/AttackWindow/AttackWindow.cs"
+			],
+			[
+				"interac",
+				"Assets/Scripts/UI/Screens/GameScreen/Notification/BarNotifications/InteractiveNotification.cs"
+			],
+			[
+				"notific",
+				"Assets/Scripts/UI/Screens/GameScreen/Notification/BarNotifications/NotificationPanel.cs"
+			],
+			[
+				"notif",
+				"Assets/Scripts/UI/Screens/GameScreen/Notification/NotificationManager.cs"
+			],
+			[
+				"copno",
+				"Assets/Scripts/UI/Screens/GameScreen/Notification/BarNotifications/CopCarSpawnedNotification.cs"
+			],
+			[
+				"timer",
+				"Assets/Scripts/UI/Screens/GameScreen/Notification/BarNotifications/TimerInteractiveNotification.cs"
+			],
+			[
+				"button",
+				"Assets/Scripts/UI/Screens/GameScreen/Notification/BarNotifications/ButtonInteractiveNotification.cs"
+			],
+			[
+				"movewi",
+				"Assets/Scripts/UI/Screens/GameScreen/MoveCharactersWindow/MoveCharactersWindow.cs"
+			],
+			[
+				"cha",
+				"Assets/Scripts/Core/Characters/Character/Character.cs"
+			],
+			[
+				"iui",
+				"Assets/Scripts/UI/Halfbus/General/CustomControllers/Containers/IUIContainerItem.cs"
+			],
+			[
+				"basic",
+				"Assets/Scripts/UI/Screens/GameScreen/Notification/BarNotifications/BasicNotification.cs"
+			],
+			[
+				"atack",
+				"Assets/Scripts/UI/Screens/GameScreen/AttackWindow/AttackWindow.cs"
+			],
+			[
+				"rus",
+				"Assets/Resources/Localization/Base/Russian.json"
+			],
+			[
+				"eng",
+				"Assets/Resources/Localization/Base/English.json"
+			],
+			[
+				"roomac",
+				"Assets/Scripts/UI/RoomActionButton.cs"
+			],
+			[
+				"crooomco",
+				"Assets/Scripts/UI/Screens/GameScreen/ContextMenu/RoomContextMenu/RoomContextView.cs"
+			],
+			[
+				"b",
+				"Assets/Scripts/Core/City/Basement.cs"
+			],
+			[
+				"pro",
+				"Assets/Scripts/Core/Rooms/Production/ProductionRoom.cs"
+			],
+			[
+				"sellro",
+				"Assets/Scripts/Core/Rooms/Sell/SellRoom.cs"
+			],
+			[
+				"empoyeeda",
+				"Assets/Scripts/Core/Characters/Employees/EmployeeDataContainer.cs"
+			],
+			[
+				"hirewi",
+				"Assets/Scripts/UI/Screens/GameScreen/HireWindow/HireWindow.cs"
+			],
+			[
+				"roomshop",
+				"Assets/Scripts/UI/Screens/GameScreen/ShopWindow/RoomShop/RoomShopItem.cs"
+			],
+			[
+				"notifica",
+				"Assets/Scripts/UI/Screens/GameScreen/Notification/BarNotifications/NotificationPanel.cs"
+			],
+			[
+				"notificati",
+				"Assets/Scripts/UI/Screens/GameScreen/Notification/BarNotifications/BasicNotification.cs"
+			],
+			[
+				"tracke",
+				"Assets/Scripts/Core/Metagame/StatisticsTracker.cs"
+			],
+			[
+				"notifi",
+				"Assets/Scripts/UI/Screens/GameScreen/Notification/BarNotifications/NotificationPanel.cs"
+			],
+			[
+				"notification",
+				"Assets/Scripts/UI/Screens/GameScreen/Notification/BarNotifications/BasicNotification.cs"
+			],
+			[
+				"basenoti",
+				"Assets/Scripts/UI/Screens/GameScreen/Notification/BarNotifications/SelfDestroyingNotification.cs"
+			],
+			[
+				"locationse",
+				"Assets/Scripts/Settings/LocationSettings.cs"
+			],
+			[
+				"obj",
+				"Assets/Scripts/Settings/ObjectiveSettings.cs"
+			],
+			[
+				"wal",
+				"Assets/Scripts/Core/Metagame/Wallet.cs"
+			],
+			[
+				"employee",
+				"Assets/Scripts/Core/Characters/Employees/EmployeeManager.cs"
+			],
+			[
+				"walle",
+				"Assets/Scripts/Core/Metagame/Wallet.cs"
+			],
+			[
+				"storagero",
+				"Assets/Scripts/Core/Rooms/Storage/StorageRoom.cs"
+			],
+			[
+				"storageview",
+				"Assets/Scripts/Core/Storage/StorageView.cs"
+			],
+			[
+				"character2d",
+				"Assets/Scripts/Core/Characters/Core/Character2dAnimator.cs"
+			],
+			[
+				"storagema",
+				"Assets/Scripts/Core/Storage/StorageManager.cs"
+			],
+			[
+				"sellroom",
+				"Assets/Scripts/UI/Screens/GameScreen/ContextMenu/RoomContextMenu/SellRoomDataPanel.cs"
+			],
+			[
+				"characterhel",
+				"Assets/Scripts/Utility/CharacterHelper.cs"
+			],
+			[
+				"googla",
+				"Assets/Plugins/Analytics/Scripts/GoogleUniversalAnalytics.cs"
+			],
+			[
+				"junkie",
+				"Assets/Scripts/Core/Characters/Junkies/Junkie.cs"
+			],
+			[
+				"truckview",
+				"Assets/Scripts/Core/Trucks/Base/TruckView.cs"
+			],
+			[
+				"math",
+				"Assets/Scripts/Utility/MathExtensions.cs"
+			],
+			[
+				"storage",
+				"Assets/Scripts/Core/Storage/StorageModel.cs"
+			],
+			[
+				"tuck",
+				"Assets/Scripts/UI/Screens/GameScreen/ContextMenu/CharacterContextMenu/TruckContextView.cs"
+			],
+			[
+				"truckmana",
+				"Assets/Scripts/UI/Screens/GameScreen/ManagementWindow/TruckManagementWindow.cs"
+			],
+			[
+				"elec",
+				"Assets/Scripts/UI/Screens/GameScreen/ContextMenu/RoomContextMenu/ElectricityRoomDataPanel.cs"
+			],
+			[
+				"decor",
+				"Assets/Scripts/UI/Screens/GameScreen/ContextMenu/RoomContextMenu/DecorRoomDataPanel.cs"
+			],
+			[
+				"ca",
+				"Assets/Scripts/Core/Characters/Core/Character2dAnimator.cs"
+			],
+			[
+				"moodco",
+				"Assets/Scripts/Core/Characters/Core/MoodController.cs"
+			],
+			[
+				"characterh",
+				"Assets/Scripts/Utility/CharacterHelper.cs"
+			],
+			[
+				"caharacterani",
+				"Assets/Scripts/Core/Characters/Core/Character2dAnimator.cs"
+			],
+			[
+				"charac",
+				"Assets/Scripts/Core/Characters/Character/Character.cs"
+			],
+			[
+				"storagable",
+				"Assets/Scripts/Core/Storage/StoragableType.cs"
+			],
+			[
+				"pris",
+				"Assets/Scripts/Core/Rooms/Prison/PrisonRoom.cs"
+			],
+			[
+				"fight",
+				"Assets/Scripts/Core/Characters/Character/Fighter.cs"
+			],
+			[
+				"rest",
+				"Assets/Scripts/Core/Rooms/Heal/RestRoom.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Development/microed-server/microed-server.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 548.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 273.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

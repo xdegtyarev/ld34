@@ -1,0 +1,26 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": ".",
+		    "file_include_patterns":
+            [
+                "*.cs",
+                "*.shader",
+                "*.json"
+            ],
+            "folder_exclude_patterns":
+            [
+                "Library",
+                "ProjectSettings",
+                "Temp"
+            ]
+		}
+	],
+	"settings":
+	{
+		"tab_size": 4
+	},
+	 "solution_file": "./ld34.sln"
+}
