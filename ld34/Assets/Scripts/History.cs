@@ -48,6 +48,8 @@ public class History : MonoBehaviour {
 	int sellRate = 2010;
 	int salary = 500;
 
+	bool freezeTime;
+
 	public void ScheduleEvent(ScheduledEvent scheduledEvent){
 		scheduledEvent.nextOccurancy = date.Add(scheduledEvent.deltaTime);
 		events.Add(scheduledEvent);
@@ -57,9 +59,9 @@ public class History : MonoBehaviour {
 		events = new List<ScheduledEvent>();
 		startDate = DateTime.Now;
 		date = DateTime.Now;
-		ScheduleEvent(new ScheduledEvent(TimeSpan.FromDays(0.5f), UpdateNewsFeed, true));
+		ScheduleEvent(new ScheduledEvent(TimeSpan.FromDays(1f), UpdateNewsFeed, true));
 		ScheduleEvent(new ScheduledEvent(TimeSpan.FromDays(1f), UpdateRates, true));
-		ScheduleEvent(new ScheduledEvent(TimeSpan.FromDays(3f), GetSalary, true));
+		ScheduleEvent(new ScheduledEvent(TimeSpan.FromDays(5f), GetSalary, true));
 		UpdateNewsFeed();
 		UpdateRates();
 	}
@@ -72,7 +74,9 @@ public class History : MonoBehaviour {
 	System.Collections.IEnumerator ShowModule(string text){
 		moduleText.text = text;
 		moduleWindow.SetActive(true);
+		freezeTime = true;
 		yield return new WaitForSeconds(4f);
+		freezeTime = false;
 		moduleWindow.SetActive(false);
 	}
 
@@ -99,7 +103,7 @@ public class History : MonoBehaviour {
 
 	public float deltaTime{
 		get{
-			return Time.deltaTime/dayLength;
+			return freezeTime ? 0f : Time.deltaTime/dayLength;
 		}
 	}
 	// Update is called once per frame
